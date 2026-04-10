@@ -5,12 +5,16 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* This creates the "card" */
 body > * {
   max-width: 750px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 40px auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
 }
 
+/* Title */
 h1 {
   color: #001f3f;
   font-size: 36px;
@@ -21,6 +25,7 @@ h1 {
   padding-bottom: 10px;
 }
 
+/* Subtitle */
 h2 {
   color: #1b2558;
   font-size: 18px;
@@ -28,13 +33,14 @@ h2 {
   margin-bottom: 20px;
 }
 
+/* Paragraphs */
 p {
   color: #4a5fa3;
   line-height: 1.7;
   margin-bottom: 18px;
-  max-width: 700px;
 }
 
+/* List */
 ul {
   margin-bottom: 20px;
   padding-left: 20px;
@@ -45,6 +51,7 @@ li {
   margin-bottom: 8px;
 }
 
+/* Links */
 a {
   color: #2c3e73;
   text-decoration: none;
