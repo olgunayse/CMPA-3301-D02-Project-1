@@ -1,21 +1,29 @@
 body {
   background-color: #5b7c8c;
+  margin: 20px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
 }
 
 h1 {
-  color: #1b2558; 
+  color: #1b2558;
+  font-family: Helvetica, sans-serif;
 }
 
 h2 {
   color: #ffffff;
+  font-family: Georgia, serif;
 }
 
 p {
-  color: #333333; 
+  color: #333333;
+  font-family: Verdana, sans-serif;
+  line-height: 1.6;
 }
 
 li {
   color: #2c4ca7;
+  font-family: Verdana, sans-serif;
 }
 
 a {
