@@ -2,7 +2,7 @@ body {
   background-color: #5b7c8c;
   margin: 20px;
   padding: 20px;
-  font-family: Arial, sans-serif;
+  font-family: 'Lora', serif;
 }
 
 h1 {
@@ -17,13 +17,11 @@ h2 {
 
 p {
   color: #333333;
-  font-family: Lora, sans-serif;
   line-height: 1.6;
 }
 
 li {
   color: #2c4ca7;
-  font-family: Lora, sans-serif;
 }
 
 a {
